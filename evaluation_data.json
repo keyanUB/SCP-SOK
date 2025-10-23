@@ -1,0 +1,8 @@
+[
+   {
+     "id": "SCP-001",
+    "reference": "Always validate input length...",
+     "candidate": "Input validation is important...",
+     "key_concepts": ["validate input length", "escape special characters"]
+   }
+]
