@@ -1,0 +1,6 @@
+import json
+
+OPEN_AI_KEY=''
+GEMINI_KEY=''
+ANTHROPIC_KEY=''
+DEEPSEEK_KEY=''
